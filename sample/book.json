@@ -1,0 +1,11 @@
+{
+    "plugins": [
+	"anchors",
+	"back-to-top-button",
+	"copy-code-button",
+	"hide-published-with",
+	"include-codeblock",
+	"uml"
+    ]
+}
+

@@ -1,0 +1,21 @@
+{
+  "name": "honkit-plugin",
+  "version": "1.0.0",
+  "description": "honkit plugin node packages",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "npx honkit serve",
+    "build": "npx honkit build",
+    "pdf": "npx honkit pdf"
+  },
+  "dependencies": {
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-copy-code-button": "^0.0.2",
+    "gitbook-plugin-hide-published-with": "^0.0.1",
+    "gitbook-plugin-include-codeblock": "^3.2.3",
+    "gitbook-plugin-uml": "^1.2.21",
+    "honkit": "^4.0.7"
+  }
+}
