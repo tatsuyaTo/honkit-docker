@@ -15,6 +15,7 @@
     "gitbook-plugin-copy-code-button": "^0.0.2",
     "gitbook-plugin-hide-published-with": "^0.0.1",
     "gitbook-plugin-include-codeblock": "^3.2.3",
+    "gitbook-plugin-search-pro-fixed": "^1.0.1",
     "gitbook-plugin-uml": "^1.2.21",
     "honkit": "^4.0.7"
   }

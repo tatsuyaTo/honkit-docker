@@ -5,6 +5,7 @@
 	"copy-code-button",
 	"hide-published-with",
 	"include-codeblock",
+	"-lunr", "-search", "search-pro-fixed",
 	"uml"
     ]
 }
