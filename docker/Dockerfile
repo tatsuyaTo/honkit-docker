@@ -3,7 +3,7 @@ FROM honkit/honkit
 WORKDIR /honkit-plugin
 
 RUN apt-get -y update && apt-get -y upgrade
-RUN apt-get -y install build-essential openjdk-11-jre graphviz
+RUN apt-get -y install build-essential openjdk-17-jre graphviz
 
 COPY ./package.json ./package.json
 RUN yarn
