@@ -1,5 +1,6 @@
 honkit docker
 ====================================
+[![Docker](https://github.com/workingted/honkit-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/workingted/honkit-docker/actions/workflows/docker-image.yml)
 
 ## Build docker image
 
